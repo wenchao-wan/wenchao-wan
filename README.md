@@ -21,7 +21,7 @@
 - 开源的驾驶舱模板
 - 基于Qiankun实现微前端模版
 - 基于Module Federation实现微前端模版
-- 多端 H5 解决方案  
+- 多端 H5 Monorepo 前端工程模版  
 - 前端工具与实用库  
 
 ---
