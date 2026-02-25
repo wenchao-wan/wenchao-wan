@@ -28,7 +28,7 @@
 
 ## 📬 联系方式
 
-- 邮箱：`www__wenchao@163.com`  
+- 邮箱：`wenchao_wan@163.com`  
 - CSDN： [https://blog.csdn.net/qq_42405304](https://blog.csdn.net/qq_42405304)  
 - GitHub： [https://github.com/wenchao-wan](https://github.com/wenchao-wan)  
 
